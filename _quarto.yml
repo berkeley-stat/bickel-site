@@ -11,7 +11,11 @@ website:
       - href: students.qmd
       - href: personal.qmd
     title: "Peter J. Bickel"
+
 format:
   html:
     theme: cosmo
     toc: true
+    fontsize: 0.9em
+    include-in-header:
+      file: siteimprove.html
