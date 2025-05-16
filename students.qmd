@@ -1,0 +1,69 @@
+---
+title: Students
+---
+
+## Former PhD Students
+
+- [Hira Lal Koul](http://www.stt.msu.edu/~koul/) 1967
+- Jan Geertsema 1968
+- Radhakrishnan Aiyar 1969
+- Luis Bernabe Boza 1970
+- Djalma Pessoa 1971
+- Barry Rees James 1971
+- Eduardo De Weerth 1972
+- Jose Dachs 1973
+- [John Collins](http://math.ucalgary.ca/profiles/24) 1973
+- Steinar Bjerve 1974
+- Pham Xuan Quang 1974
+- Olivier Muron 1974
+- Jeffrey Polovina 1974
+- Aldo Viollaz 1976
+- Winston Chow 1976
+- [Chien-Fu Wu](http://www2.isye.gatech.edu/~jeffwu/) 1976
+- Jeyaraj Vadiveloo 1977
+- Joel Brodsky 1978
+- Thomas Hammerstrom 1978
+- Nilson Marcondes 1978
+- Eugene Poggio 1979
+- Mark Ford Schilling 1979
+- Paul Wang 1979
+- Ronaldo Iachan 1980
+- [Ian Abramson](http://math.ucsd.edu/people/index.php?category=faculty_by_name) 1981
+- Robert Holmes, Jr. 1981
+- [Michael Trosset](http://mypage.iu.edu/~mtrosset/) 1983
+- Enio Jelihovschi 1984
+- [Julian Faraway](http://www.maths.bath.ac.uk/~jjf23/) 1987
+- [Byeong Uk Park](http://srccs.snu.ac.kr/VerII/Member/BUPark.html) 1987
+- Moxiu Mo 1989
+- [Jianqing Fan](http://orfe.princeton.edu/~jqfan/) 1989
+- Ping Zhang 1990
+- Kun Jin 1990
+- Yonghua Wang 1990
+- Panagiotis Lorentziadis 1991
+- Alex Bajamonde 1991
+- Zaiqian Shen 1992
+- [Yazhen Wang](http://www.stat.uconn.edu/~yzwang/) 1992
+- Niklaus Hengartner 1993
+- [Mark van der Laan](http://www.stat.berkeley.edu/~laan/) 1993
+- Namhyun Kim 1994
+- [Jiming Jiang](http://www.stat.ucdavis.edu/~jiang/) 1995
+- Anat Sakov 1998
+- Zhiyu Ge 1998
+- [Yoram Gat](http://www2.parc.com/csl/members/gat/) 2000
+- [Jaimyoung Kwon](http://www.sci.csuhayward.edu/~jkwon/) 2000
+- Jenher Jeng 2002
+- [Elizaveta Levina](http://www.stat.lsa.umich.edu/~elevina/) 2002
+- [Katherina Kechris](http://pmb.uchsc.edu/faculty/kechris/) 2003
+- [Aiyou Chen](http://cm.bell-labs.com/who/aychen/index.html) 2004
+- [Bo Li](http://166.111.96.4/homepage/viewTeacherPage.do?id=6561) 2006
+- Choongsoon Bae 2008
+- [James B. Brown](https://biosciences.lbl.gov/profiles/ben-brown/) 2008
+- Na Xu 2008
+- Donghui Yan 2008
+- Jing Lei 2010
+- Sharmodeep Bhattacharyya 2013
+- Rachel Wang (coadviser) 2015
+- Soumendu Mukherjee
+- Sören Künzel 2019 (coadviser)
+- Lihua Lei (coadviser)
+

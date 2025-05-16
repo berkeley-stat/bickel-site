@@ -1,0 +1,57 @@
+---
+title: Research
+---
+
+Peter Bickel's research spans a number of areas. In his work on semiparametric models (he is a co-author of the recent book Efficient and Adaptive Estimation for Semiparametric Models), he uses asymptotic theory to guide development and assessment of such models. His studies of hidden Markov models, which are important in such diverse fields as speech recognition and molecular biology, are directed toward understanding how well the method of maximum likelihood performs. He is also interested in the bootstrap, in particular in constructing diagnostic measures to detect malfunction of this technique. Recently he has become involved in developing empirical statistical models for genomic sequences. He is a co-author of the well known book Mathematical Statistics: Basic Ideas and Selected Topics.
+
+## Working Papers
+
+- Peter Bickel and Marko Lindner; *Approximating the inverse of banded matrices by banded matrices with applications to probability and statistics*, 2010 [[arxiv](https://arxiv.org/abs/1002.4545), [pdf](https://arxiv.org/pdf/1002.4545v2)]
+- Jing Lei and Peter Bickel; *Ensemble Filtering for High Dimensional Nonlinear State Space Models*, 2009 [[pdf](https://drive.google.com/a/berkeley.edu/file/d/1IkSLNQ1jSpBqK9PvXVf5TZXPFTlDbyJE/view?usp=sharing)]
+- Peter Bickel, Boley N, Brown JB, Huang H and Zhang NR; *Non Parametric Methods for Genomic Inference*, 2010 [[pdf](https://drive.google.com/a/berkeley.edu/file/d/1Ai1QfsrJFPn7SrT4DQGyER9YixCcWvaz/view?usp=sharing)]
+
+## Recent Publications
+
+- Juli Atherton et al; *A Model for Sequential Evolution of Ligands by Exponential Enrichment (SELEX) Data*, Annals of Applied Statistics 2012, Vol. 6, No. 3, 928-949 [[arxiv](https://arxiv.org/abs/1205.1819), [pdf](https://arxiv.org/pdf/1205.1819)]
+- Anil Aswani, Peter Bickel and Claire Tomlin; *Regression on Manifolds: Estimation of the Exterior Derivative* [[pdf](https://drive.google.com/a/berkeley.edu/file/d/1v6DNbAw_zDG6wYY1tPoA5Mdc7KCRHUUw/view?usp=sharing)], Annals of Statistics 2011, Vol. 39, No. 1, 48-81 [[arxiv](https://arxiv.org/abs/1103.1457), [pdf](https://arxiv.org/pdf/1103.1457)]
+- Jing Lei, Peter Bickel and Chris Snyder; *Comparison of Ensemble Kalman Filters under Non-Gaussianity* [[pdf](https://drive.google.com/open?id=1Ryb2_mM0QziYNjSubVy-8LdSq75jdakJ)], Monthly Weather Review, to appear, 2010 [[doi](https://doi.org/10.1175/2009MWR3133.1)]
+- Peter Bickel, Ya'acov Ritov and Alexander Tsybakov; *Hierarchical Selection of Variables in Sparse High-dimensional Regression*, 2008 [[arxiv](https://arxiv.org/abs/0801.1158), [pdf](https://arxiv.org/pdf/0801.1158)]
+- Peter Bickel and Aiyou Chen; *A Nonparametric View of Network Models and Newman-Girvan and Other Modularities* [[pdf](https://drive.google.com/open?id=17ARLsokRYdWjenSuT4ucGU1tVsiAGB8h)], Proceedings of the National Academy of Sciences, Vol. 106, No. 50, 21068-21073, 2009
+- MacArthur et al; *Developmental Roles of 21 Drosophila Transcription Factors are determined by quantitative differences in binding to an overlapping set of thousands of genomic regions* [[pdf](https://drive.google.com/open?id=1iPfrcO1K7oEgJ44g6_3HzkumifQYcUDK)], Genome Biology, Vol. 10, Iss. 7, Article R80, 2009
+- Peter Bickel, James Brown, Haiyan Huang and Qunhua Li; *An Overview of Recent Developments in Genomics and the Statistical Methods that Bear on Them* [[pdf](https://drive.google.com/open?id=1eK1SrDc9RRwWDaW_N3ISUufec1LVm4pB)], Phil. Trans. R. Soc. A, 4313-4337, 2009
+- Nicolai Meinshausen, Peter Bickel, and John Rice; *Efficient Blind Search: Optimal Power of Detection under Computational Cost Constraints* [[pdf](https://drive.google.com/open?id=1FU2QYz13K44x9fAYWbo7xtEVks2YYa7q)], Annals of Applied Statistics, Vol. 3, No. 1, 38-60, 2009
+- Peter Bickel, Ya'acov Ritov and Alexander Tsybakov; *Simultaneous Analysis of Lasso and Dantzig Selector* [[pdf](https://www.stat.berkeley.edu/~bickel/BickelRitovTsybakov2009aos.pdf)], Annals of Statistics, Vol.37, No. 4, 1705-1732, 2009
+- Peter Bickel and Ying Xu; *Discussion of: Brownian Distance Covariance* [[pdf](https://www.stat.berkeley.edu/~bickel/Bickel%20Xu%202009.pdf)], Annals of Applied Statistics, Vol. 3, No. 4, 1266-1269, 2009
+- Peter Bickel, and Donghui Yan; *Sparsity and the Possibility of Inference* [[pdf](https://www.stat.berkeley.edu/~bickel/Bickel%20Yan%202008.pdf)], Sankhya, Vol.70-A, Part 1, 1-24, 2008
+- Peter Bickel and Liza Levina; *Covariance Regularization by Thresholding* [[pdf](https://www.stat.berkeley.edu/~bickel/BL2008Aos-thresholding.pdf)], Annals of Statistics, Vol. 34, No. 6, 2577-2604, 2008
+- Peter Bickel and Ya'acov Ritov (2008); *Discussion of Mease and Wyner: And yet it overfits*, [[pdf](https://www.stat.berkeley.edu/~bickel/Bickel%20Ritov%202008%20discussion%20JMLR.pdf)], Journal of Machine Learning Research, 9, 181-186, 2008
+- Peter Bickel, Bas Kleijn and John Rice (2008); *Event Weighted Tests for Detecting Periodicity in Photon Arrival Times* [[pdf](https://www.stat.berkeley.edu/~bickel/BKR2008-weighted%20tests.pdf)], Astrophysical Journal, 685: 384-389, 2008
+- Peter Bickel and Ya'acov Ritov (2008); *Discussion of Treelets by Lee, Nadler and Wasserman*, [[pdf](https://www.stat.berkeley.edu/~bickel/BickelRitov2008AAS-discussion.pdf)], Annals of Applied Statistics, Vol.2, No.2, 474-477, 2008
+- Chris Snyder, Thomas Bengtsson, Peter Bickel, and Jeff Anderson (2008); *Obstacles to High-dimensional Particle Filtering* [[pdf](https://www.stat.berkeley.edu/~bickel/Snyder%20et%20al%202008.pdf)], Monthly Weather Review, Vol. 136, 4629-4640, 2008
+- Rothman, A.J., Bickel, P.J., Levina, E., and Zhu, J.; *Sparse Permutation Invariant Covariance Estimation*. [[pdf](https://www.stat.berkeley.edu/~bickel/Rothman%20et%20al%202008.pdf)], Electric Journal of Statistics, Vol.2, 494-515, 2008
+- Peter Bickel, Anat Sakov; *On the Choice of m in the m out of n Bootstrap and its Application to Confidence Bounds for Extreme Percentiles* [[pdf](https://www.stat.berkeley.edu/~bickel/BS2008SS.pdf)], Statistica Sinica, 18, 967-985, 2008
+- Peter Bickel, Bo Li and Thomas Bengtsson; *Sharp Failure Rates for the Bootstrap Particle Filter in High Dimensions* [[pdf](https://www.stat.berkeley.edu/~bickel/BickelLiBengt2008.pdf)], IMS Collections: Pushing the Limits of Contemporary Statistics: Contributions in Honor of Jayanta K. Ghosh, Vol.3, 318-329, 2008
+- Thomas Bengtsson, Peter Bickel and Bo Li; *Curse of Dimensionality Revisited: the Collapse of Importance Sampling in Very Large Scale Systems* [[pdf](https://www.stat.berkeley.edu/~bickel/BBL2008-curse%20of%20dimensionality.pdf)], IMS Collections: Probability and Statistics: Essays in Honor of David A. Freedman, Vol.2, 316-334, 2008
+- Peter Bickel and Elizaveta Levina; *Regularized estimation of large covariance matrices* [[pdf](https://www.stat.berkeley.edu/~bickel/BL2008-banding.pdf)], Annals of Statistics, 36(1), 199-227, 2008
+- Peter Bickel; *Discussion: the Dantzig Selector* [[pdf](https://www.stat.berkeley.edu/~bickel/Bickel2007-discussion%20of%20danzig.pdf)], Annals of Statistics, 35(6), 2352-2357, 2007
+- Peter Bickel; *Comments on: Nonparametric Inference with GLR Tests* [[pdf](https://www.stat.berkeley.edu/~bickel/Bickel2007-comments%20on%20GLR%20tests.pdf)], Test, 16, 445-447, 2007
+- Peter Bickel, Chao Chen, Jaimyoung Kwon, John Rice, Erik van Zwet and Pravin Varaiya; *Measuring Traffic* [[pdf](https://www.stat.berkeley.edu/~bickel/Bickel%20et%20al%202007-measuring%20traffic.pdf)], Statistical Science, 22 (4): 581-597, 2007
+- Peter Bickel, Bas Kleijn and John Rice; *On Detecting Periodicity in Astronomical Point Processes* [[pdf](https://www.stat.berkeley.edu/~bickel/BickelKleijnRice2007a.pdf)], Challenges in Modern Astronomy IV: ASP Conference Series Vol 371, 2007
+- The ENCODE Project Consortium; *Identification and analysis of functional elements in 1% of the human genome by the ENCODE pilot project*. June 14th, 2007. Nature, 447: 799-816.
+- Margulies EH et al; *Analyses of deep mammalian sequence alignments and constraint predictions for 1% of the human genome*. June 2007. Genome Research 17: 760-774.
+- Peter Bickel and Bo Li; *Local Polynomial Regression on Unknown Manifolds* [[pdf](https://www.stat.berkeley.edu/~bickel/LNMS5414.pdf)], Complex Datasets and Inverse Problems: Tomography, Networks and Beyond, IMS Lecture Notes-Monograph Series, Vol 54, 177-186, 2007
+- Peter Bickel and Bo Li; *Regularization in Statistics* [[pdf](https://www.stat.berkeley.edu/~bickel/Test_BickelLi.pdf)], Test, 15 (2): 271-344 Dec 2006
+- Aiyou Chen and Peter Bickel; *Efficient Independent Component Analysis* [[pdf](https://www.stat.berkeley.edu/~bickel/ChenBickel2006AOS.pdf)], Annals of Statistics, 34(6), 2006
+- Elizaveta Levina, Peter Bickel; *Texture Synthesis and Non-parametric Resampling of Random Fields* [[pdf](https://www.stat.berkeley.edu/~bickel/LevinaBickel2006AOS.pdf)], Annals of Statistics, 34 (4): 1751-1773 Aug 2006
+- Peter Bickel, Ya'acov Ritov and Alon Zakai; *Some Theory For Generalized Boosting Algorithms* [[pdf](https://www.stat.berkeley.edu/~bickel/BickelRitovZakai2006JMLR.pdf)], Journal of Machine Learning Research, 7: 705-732 May 2006
+- Peter Bickel, Ya'acov Ritov and Thomas Stoker; *Tailor-made Tests for Goodness-of-fit to Semiparametric Hypotheses* [[pdf](https://www.stat.berkeley.edu/~bickel/BickelRitovStoker2006AOS.pdf)], Annals of Statistics, 34 (2): 721-741 Apr 2006
+- Kechris KJ, Lin JC, Bickel PJ, et al.; *Quantitative exploration of the occurence of lateral gene transfer by using nitrogen fixation genes as a case study*, Proceedings of the National Academy of Sciences of the United States of America 103 (25): 9584-9589, Jun 20 2006
+- Aiyou Chen and Peter Bickel; *Consistent Independent Component Analysis and Prewhitening* [[pdf](https://www.stat.berkeley.edu/~bickel/ChenBickel2005IEEE.pdf)], IEEE Transactions on Signal Processing 53 (10): 3625-3632 Oct 2005
+- Levina, Elizaveta and Peter Bickel; *Maximum likelihood estimation of intrinsic dimension* [[pdf](https://www.stat.berkeley.edu/~bickel/mldim.pdf)]. In Advances in NIPS 17, Eds. L. K. Saul, Y. Weiss, L. Bottou (2005)
+- Olshen, A. B.; Cosman, P. C.; Rodrigo, A. G.; Bickel, P. J.; Olshen, R. A.; *Vector quantization of amino acids: Analysis of the HIV V3 loop region* [[pdf](https://www.stat.berkeley.edu/~bickel/jspi2005.pdf)]. J. Statist. Plann. Inference 130 (2005), no. 1-2, 277--298.
+- van Zwet, Erik W.; Kechris, Katherina J.; Bickel, Peter J.; Eisen, Michael B.; *Estimating Motifs Under Order Restrictions*. [[pdf](https://www.stat.berkeley.edu/~bickel/SAGMB2005.pdf)]. Stat. Appl. Genet. Mol. Biol. 4 (2005), Art. 1, 18 pp
+- Peter Bickel and Levina, Elizaveta; *Some theory of Fisher's linear discriminant function, `naive Bayes', and some alternatives when there are many more variables than observations* [[pdf](https://www.stat.berkeley.edu/~bickel/BickelLevina2004.pdf)] Bernoulli, 10 (2004), no. 6, 989--1010.
+- Ge, Zhiyu; Bickel, Peter J.; Rice, John A.; *An approximate likelihood approach to nonlinear mixed effects models via spline approximation*. [[pdf](https://www.stat.berkeley.edu/~bickel/CSDA2004.pdf)], Comput. Statist. Data Anal. 46 (2004), no. 4, 747--776.
+
+[All Publications](https://www.stat.berkeley.edu/~bickel/bibtex.html)
+

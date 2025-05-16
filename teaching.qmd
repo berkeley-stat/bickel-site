@@ -1,0 +1,13 @@
+---
+title: Teaching
+---
+
+### Mathematical Statistics: Basic Ideas and Selected Topics, Volume 1, Second Edition
+
+by Peter J. Bickel and Kjell Doksum
+
+[CRC Press](https://www.crcpress.com/Mathematical-Statistics-Basic-Ideas-and-Selected-Topics-Volume-I-Second/Bickel-Doksum/p/book/9781498723800) • [Amazon](https://www.amazon.com/Mathematical-Statistics-Selected-Chapman-Statistical-ebook/dp/B00VHPBXXU) • [Google Books](https://books.google.com/books/about/Mathematical_Statistics.html?id=QwQ_AQAAQBAJ)
+
+[Errata](https://drive.google.com/open?id=1kncnmqJWFMouCWjYqkq4LGW5uZYTH-1S)
+
+[Problems](http://www.stat.berkeley.edu/private/bickel/index.html) - authentication required

@@ -1,0 +1,20 @@
+---
+title: Home
+---
+
+<img src="images/projector.jpg" alt="Peter Bickel at a document projector" style="float:right; margin:0 0 1em 2em; width:300px; border-radius:8px;" />
+<p style="float:right; clear:right; margin:0 0 2em 2em; font-size:0.95em; color:#555; text-align:right; width:300px;">Peter Bickel at a document projector</p>
+
+Professor
+
+Department of Statistics
+
+367 Evans Hall, Berkeley, CA, 94720-3860
+
+[bickel@stat.berkeley.edu](mailto:bickel@stat.berkeley.edu)
+
+\(510\) 642-2781
+
+Peter Bickel is Professor of Statistics, University of California, Berkeley. He is past President of the Bernoulli Society and of the Institute of Mathematical Statistics, a MacArthur Fellow, a COPSS prize winner, and a member of the American Academy of Arts and Sciences and of the National Academy of Sciences. He was awarded an honorary Doctorate degree from Hebrew University, Jerusalem in 1986, and from ETH, Zurich in 2014.
+
+
